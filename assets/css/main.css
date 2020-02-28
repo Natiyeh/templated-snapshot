@@ -870,17 +870,17 @@
 
 				@media screen and (max-width: 736px) {
 
-					/*.gallery .content .media {
+					.gallery .content .media {
 						width: 50%;
-					}*/
+					}
 
 				}
 
 				@media screen and (max-width: 480px) {
 
-					/*.gallery .content .media {
+					.gallery .content .media {
 						width: 100%;
-					}*/
+					}
 
 				}
 
